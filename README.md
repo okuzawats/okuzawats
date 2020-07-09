@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🤖 Android App Development (2016~)
   - Kotlin
   - Java
