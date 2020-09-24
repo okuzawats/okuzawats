@@ -28,6 +28,8 @@
 - 🖋 Academic Background
   - Bachelor of Science in Computer Science at University of the People (2020 ~ WIP)
   - Master of Public Policy and Social Governance at Hosei University (2014)
+    - Research Theme: Corporate Social Responsibility （CSR) and Social Responsible Investment (SRI)
   - Bachelor of Science in Material Science at Tokyo Institute of Technology (2008)
+    - Research Theme: Forming of Refractory Materials for use in Nuclear Reactor Cores
 - 👯 I’m looking to collaborate on Mobile App Development
 - 📫 How to reach me: see my GitHub profile page
