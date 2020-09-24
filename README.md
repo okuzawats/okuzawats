@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤖 Android App Development (2016~)
+- 🤖 Android App Development (2016 ~)
   - Language
     - Kotlin
     - Java
@@ -12,7 +12,7 @@
   - Architecture
     - MVP
     - MVVM
-- 🐦 Flutter App Development (2020~)
+- 🐦 Flutter App Development (2020 ~)
   - Language
     - Dart
   - Library
@@ -26,7 +26,7 @@
   - Oracle Certified Java Programmer, Silver SE 8 (2018)
   - Applied Information Technician (a.k.a 応用情報技術者, a certification for software engineer in Japan) (2018)
 - 🖋 Academic Background
-  - Bachelor of Science in Computer Science at University of the People (WIP)
+  - Bachelor of Science in Computer Science at University of the People (2020 ~ WIP)
   - Master of Public Policy and Social Governance at Hosei University (2014)
   - Bachelor of Science in Material Science at Tokyo Institute of Technology (2008)
 - 🌱 I’m currently learning Flutter
