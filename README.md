@@ -1,13 +1,27 @@
 ### Hi there 👋
 
 - 🤖 Android App Development (2016~)
-  - Kotlin
-  - Java
-  - Dagger
-  - RxJava
-  - MVP
-  - MVVM
-- 💻 Software Engineer Background
+  - Language
+    - Kotlin
+    - Java
+  - Library
+    - Dagger
+    - RxJava
+    - Realm
+    - etc
+  - Architecture
+    - MVP
+    - MVVM
+- 🐦 Flutter App Development (2020~)
+  - Language
+    - Dart
+  - Library
+    - Riverpod
+  - Architecture
+    - MVVM with Provider/Riverpod
+  - Backend
+    - Firestore
+- 💻 Background as a Software Engineer 
   - Google Certified Associate Android Developer (2020)
   - Oracle Certified Java Programmer, Silver SE 8 (2018)
   - Applied Information Technician (a.k.a 応用情報技術者, a certification for software engineer in Japan) (2018)
