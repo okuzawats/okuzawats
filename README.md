@@ -22,7 +22,7 @@
   - Backend
     - Firestore
 - 💻 Background as a Software Engineer 
-  - Google Certified Associate Android Developer (2020)
+  - [Google Certified Associate Android Developer (2020)](https://www.credential.net/23abac18-fa90-4c07-91fc-23fed22391c0?key=91642f55a8d5ce14b85a29e0884729eb3a09a45d02d2f24fc8d7ebf1c6fed1cd#gs.h08yne)
   - Oracle Certified Java Programmer, Silver SE 8 (2018)
   - Applied Information Technician (a.k.a 応用情報技術者, a certification for software engineer in Japan) (2018)
 - 🖋 Academic Background
