@@ -29,6 +29,5 @@
   - Bachelor of Science in Computer Science at University of the People (2020 ~ WIP)
   - Master of Public Policy and Social Governance at Hosei University (2014)
   - Bachelor of Science in Material Science at Tokyo Institute of Technology (2008)
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Android App Development
-- 📫 How to reach me: Twitter @okuzawats or gmail on GitHub profile page
+- 👯 I’m looking to collaborate on Mobile App Development
+- 📫 How to reach me: see my GitHub profile page
