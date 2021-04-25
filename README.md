@@ -6,7 +6,7 @@ Android app developer with 5 years experience. Technical Lead of Android Applica
 - Oracle Certified Java Programmer, Silver SE 8
 - 応用情報技術者 (Applied Information Technology Engineer, a qualification for software engineers in Japan)
 
-## Recent Work
+## Recent Works
 
 ### Android Native App (2021)
 
