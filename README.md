@@ -10,11 +10,11 @@ Android app developer with 5 years experience. Technical Lead of Android Applica
 
 ### Android Native App (2021)
 
-Lead Android Developer. Built MVVM architecture with Kotlin Flow, LiveData and ViewModel from architecture components, DataBinding. Applied DI pattern with Dagger Hilt.
+**Worked as the Lead Android Developer.** Built MVVM architecture with Kotlin Flow, LiveData and ViewModel from architecture components, DataBinding. Applied DI pattern with Dagger Hilt.
 
 ### Flutter Cross Platform App (iOS, Android) (2020)
 
-Lead Flutter Developer. Build MVVM architecture with Riverpod / Provider with Firestore as the backend. Created a reactive UIs using the realtime notification of Firestore and Stream of Dart.
+**Worked as the Lead Flutter Developer.** Build MVVM architecture with Riverpod / Provider with Firestore as the backend. Created a reactive UIs using the realtime notification of Firestore and Stream of Dart.
 
 ## For More Information
 
