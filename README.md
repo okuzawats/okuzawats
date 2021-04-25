@@ -14,7 +14,7 @@ Lead Android Developer. Built MVVM architecture with Kotlin Flow, LiveData and V
 
 ### Flutter Cross Platform App (iOS, Android) (2020)
 
-Lead Flutter Developer. Build MVVM architecture with Riverpod / Provider with Firestore as backend. Created a reactive UI update using the realtime notification of Firestore.
+Lead Flutter Developer. Build MVVM architecture with Riverpod / Provider with Firestore as the backend. Created a reactive UIs using the realtime notification of Firestore and Stream of Dart.
 
 ## For More Information
 
