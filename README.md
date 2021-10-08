@@ -1,3 +1,7 @@
+![okuzawats's github stats](https://github-readme-stats.vercel.app/api?username=okuzawats&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okuzawats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## About Me
 
 Technical lead of Android app development at Fuller, Inc. Have 5 years experience of software development, specialized in mobile front-end. Master of Public Governance. Bachelor of Engineering in Material Science. Living in Tsukuba, Japan.
