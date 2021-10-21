@@ -1,5 +1,7 @@
 # About Me😎
 
+Android Application Developer, Author of "Jetpack ComposeによるAndroid MVVMアーキテクチャ入門 (Dive into Android MVVM Architecture with Jetpack Compose)".
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okuzawats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Technical lead of Android app development at Fuller, Inc. Have 5 years experience of software development, specialized in mobile front-end. Master of Public Governance. Bachelor of Engineering in Material Science. Living in Tsukuba, Japan.
