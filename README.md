@@ -1,6 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okuzawats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# About Me
 
-## About Me
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okuzawats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Technical lead of Android app development at Fuller, Inc. Have 5 years experience of software development, specialized in mobile front-end. Master of Public Governance. Bachelor of Engineering in Material Science. Living in Tsukuba, Japan.
 
@@ -12,7 +12,7 @@ Technical lead of Android app development at Fuller, Inc. Have 5 years experienc
 
 ### Android Native App (2021)
 
-**Worked as the Lead Android Developer**
+**Worked as the Lead Android Developer.**
 
 Designed the overall architecture of Android native app. The architecture was MVVM fully reactive and layerd. Newly adopted Kotlin Flow and Dagger Hilt. Launched CI/CD flow with GitHub Actions.
 
