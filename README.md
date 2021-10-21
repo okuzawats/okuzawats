@@ -1,6 +1,6 @@
 # About Me😎
 
-Android Application Developer, Author of "Jetpack ComposeによるAndroid MVVMアーキテクチャ入門 (Dive into Android MVVM Architecture with Jetpack Compose)".
+Android Application Developer, Author of "[Jetpack ComposeによるAndroid MVVMアーキテクチャ入門 (Dive into Android MVVM Architecture with Jetpack Compose)](https://nextpublishing.jp/book/13660.html)".
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okuzawats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
