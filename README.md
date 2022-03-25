@@ -6,7 +6,7 @@ Androidアプリエンジニアです。
 
 ## 著作📝
 
-![mvvm](img/mvvm.jpg)
+<img src="https://github.com/okuzawats/okuzawats/raw/main/img/mvvm.jpg" width="200" >
 
 [Jetpack ComposeによるAndroid MVVMアーキテクチャ入門](https://nextpublishing.jp/book/13660.html)
 
