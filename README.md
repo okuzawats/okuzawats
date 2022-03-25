@@ -4,6 +4,12 @@ Androidアプリエンジニアです。
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22745791?key=91642f55a8d5ce14b85a29e0884729eb3a09a45d02d2f24fc8d7ebf1c6fed1cd" />
 
+## 著作📝
+
+![mvvm](img/mvvm.jpg)
+
+[Jetpack ComposeによるAndroid MVVMアーキテクチャ入門](https://nextpublishing.jp/book/13660.html)
+
 ## ブログ🚀
 <!-- BLOG-POST-LIST:START -->
 - [コードレビューにおける「パッと見でわからないので」](https://okuzawats.com/blog/code-review-at-a-glance/)
@@ -13,5 +19,5 @@ Androidアプリエンジニアです。
 - [[Kotlin] nullオブジェクトパターン](https://okuzawats.com/blog/null-object-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
-## 得意な言語📝
+## 得意な言語💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okuzawats)](https://github.com/anuraghazra/github-readme-stats)
