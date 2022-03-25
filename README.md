@@ -1,6 +1,6 @@
-# About Me😎
+# 誰？😎
 
-Androidアプリエンジニアです。
+Androidアプリエンジニアをやっています。テックリード（Android） / Google Certified Associate Android Developerです。
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22745791?key=91642f55a8d5ce14b85a29e0884729eb3a09a45d02d2f24fc8d7ebf1c6fed1cd" />
 
