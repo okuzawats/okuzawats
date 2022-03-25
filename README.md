@@ -61,3 +61,7 @@ For more information, see my blog:
 - [https://okuzawats.com](https://okuzawats.com)
 
 Thank you!
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
