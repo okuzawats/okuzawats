@@ -12,11 +12,11 @@ Androidアプリエンジニアをやっています。テックリード（Andr
 
 ## ブログ🚀
 <!-- BLOG-POST-LIST:START -->
+- [ElixirでFizzBuzzを書いてみた](https://okuzawats.com/blog/elixir-fizzbuzz/)
 - [新しいプログラミング言語を習得すること](https://okuzawats.com/blog/learning-new-programming-language/)
 - [巨大な泥団子](https://okuzawats.com/blog/big-ball-of-mud/)
 - [「iOS開発におけるパターンによるオートマティズム」を読みました](https://okuzawats.com/blog/automatism-by-the-patterns/)
 - [設計原則](https://okuzawats.com/blog/design-principle/)
-- [コードレビューにおける「パッと見でわからないので」](https://okuzawats.com/blog/code-review-at-a-glance/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 得意な言語💻
