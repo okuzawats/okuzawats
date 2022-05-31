@@ -12,11 +12,11 @@ Androidアプリエンジニアをやっています。テックリード（Andr
 
 ## ブログ🚀
 <!-- BLOG-POST-LIST:START -->
+- [[Kotlin] 末尾カンマ](https://okuzawats.com/blog/kotlin-trailing-commas/)
 - [「フラー x ちゅらデータ合同勉強会」で「Kotlinのifを愛でる」という発表をしました](https://okuzawats.com/blog/love-kotlin-if/)
 - [ElixirでFizzBuzzを書いてみた](https://okuzawats.com/blog/elixir-fizzbuzz/)
 - [新しいプログラミング言語を習得すること](https://okuzawats.com/blog/learning-new-programming-language/)
 - [巨大な泥団子](https://okuzawats.com/blog/big-ball-of-mud/)
-- [「iOS開発におけるパターンによるオートマティズム」を読みました](https://okuzawats.com/blog/automatism-by-the-patterns/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 得意な言語💻
