@@ -12,11 +12,11 @@ Androidアプリエンジニアをやっています。テックリード（Andr
 
 ## ブログ🚀
 <!-- BLOG-POST-LIST:START -->
+- [「白と黒のとびら オートマトンと形式言語をめぐる冒険」を読みました](https://okuzawats.com/blog/archimage-garrets-apprenticeship/)
 - [「Engineer LT#1 Android｜Organized by U-NEXT」で「GitHub ActionsでAndroidアプリのテストを回しまくってたら全プロジェクトのCI/CDが完全停止する寸前だった件」という発表をしました](https://okuzawats.com/blog/halt-github-actions/)
 - [自己カプセル化](https://okuzawats.com/blog/self-encapsulation/)
 - [University of the People Bachelor of Science in Computer Scienceを退学になりました](https://okuzawats.com/blog/withdrawal-from-university-of-the-people/)
 - [[Kotlin] 末尾カンマ](https://okuzawats.com/blog/kotlin-trailing-commas/)
-- [「フラー x ちゅらデータ合同勉強会」で「Kotlinのifを愛でる」という発表をしました](https://okuzawats.com/blog/love-kotlin-if/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 得意な言語💻
