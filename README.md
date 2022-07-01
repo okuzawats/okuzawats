@@ -10,11 +10,11 @@ Android application developer. Technical lead in Android at Fuller, Inc. Google 
 
 ## Latest Blog Posts 🚀
 <!-- BLOG-POST-LIST:START -->
+- [can not update Hugo installed with apt](https://okuzawats.com/blog/can-not-update-hugo/)
 - [「白と黒のとびら オートマトンと形式言語をめぐる冒険」を読みました](https://okuzawats.com/blog/archimage-garrets-apprenticeship/)
-- [「Engineer LT#1 Android｜Organized by U-NEXT」で「GitHub ActionsでAndroidアプリのテストを回しまくってたら全プロジェクトのCI/CDが完全停止する寸前だった件」という発表をしました](https://okuzawats.com/blog/halt-github-actions/)
+- [「Engineer LT#1 Android｜Organized by U-NEXT」に登壇しました](https://okuzawats.com/blog/halt-github-actions/)
 - [自己カプセル化](https://okuzawats.com/blog/self-encapsulation/)
 - [University of the People Bachelor of Science in Computer Scienceを退学になりました](https://okuzawats.com/blog/withdrawal-from-university-of-the-people/)
-- [[Kotlin] 末尾カンマ](https://okuzawats.com/blog/kotlin-trailing-commas/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Programming Languages I Like 💻
