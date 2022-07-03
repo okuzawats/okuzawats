@@ -10,11 +10,11 @@ Android application developer. Technical lead in Android at Fuller, Inc. Google 
 
 ## Latest Blog Posts 🚀
 <!-- BLOG-POST-LIST:START -->
+- [はじめてのGitHub Actions](https://okuzawats.com/blog/hello-github-actions/)
 - [はじめてのMermaid](https://okuzawats.com/blog/hello-mermaid-js/)
 - [can not update Hugo installed with apt](https://okuzawats.com/blog/can-not-update-hugo/)
 - [「白と黒のとびら オートマトンと形式言語をめぐる冒険」を読みました](https://okuzawats.com/blog/archimage-garrets-apprenticeship/)
 - [「Engineer LT#1 Android｜Organized by U-NEXT」に登壇しました](https://okuzawats.com/blog/halt-github-actions/)
-- [自己カプセル化](https://okuzawats.com/blog/self-encapsulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Programming Languages I Like 💻
