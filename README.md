@@ -1,14 +1,19 @@
 # About Me 😎
 
-Android application developer. Technical lead in Android at Fuller, Inc. Google Certified Associate Android Developer. The author of "Jetpack ComposeによるAndroid MVVMアーキテクチャ入門".
+Androidアプリエンジニア。
 
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22745791?key=91642f55a8d5ce14b85a29e0884729eb3a09a45d02d2f24fc8d7ebf1c6fed1cd" />
+「Jetpack ComposeによるAndroid MVVMアーキテクチャ入門」の著者です。
 
 <img src="https://github.com/okuzawats/okuzawats/raw/main/img/mvvm.jpg" width="200" >
 
 [Jetpack ComposeによるAndroid MVVMアーキテクチャ入門](https://nextpublishing.jp/book/13660.html)
 
-## Latest Blog Posts 🚀
+Google Certified Associate Android Developerです。 
+
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22745791?key=91642f55a8d5ce14b85a29e0884729eb3a09a45d02d2f24fc8d7ebf1c6fed1cd" />
+
+## ブログの記事 🚀
+
 <!-- BLOG-POST-LIST:START -->
 - [はじめてのGitHub Actions](https://okuzawats.com/blog/hello-github-actions/)
 - [はじめてのMermaid](https://okuzawats.com/blog/hello-mermaid-js/)
@@ -17,5 +22,11 @@ Android application developer. Technical lead in Android at Fuller, Inc. Google 
 - [「Engineer LT#1 Android｜Organized by U-NEXT」に登壇しました](https://okuzawats.com/blog/halt-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
-## Programming Languages I Like 💻
+## 登壇資料 🎙️
+
+過去の登壇資料を以下のリポジトリ内に公開しています。
+
+- [okuzawats/slide](https://github.com/okuzawats/slide)
+
+## プログラミング言語 💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okuzawats)](https://github.com/anuraghazra/github-readme-stats)
