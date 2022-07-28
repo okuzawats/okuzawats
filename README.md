@@ -15,11 +15,11 @@ Google Certified Associate Android Developerです。
 ## ブログの記事 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [小さな石を積む](https://okuzawats.com/blog/pile-up-small-stones/)
 - [はじめてのGitHub Actions](https://okuzawats.com/blog/hello-github-actions/)
 - [はじめてのMermaid](https://okuzawats.com/blog/hello-mermaid-js/)
 - [can not update Hugo installed with apt](https://okuzawats.com/blog/can-not-update-hugo/)
 - [「白と黒のとびら オートマトンと形式言語をめぐる冒険」を読みました](https://okuzawats.com/blog/archimage-garrets-apprenticeship/)
-- [「Engineer LT#1 Android｜Organized by U-NEXT」に登壇しました](https://okuzawats.com/blog/halt-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
