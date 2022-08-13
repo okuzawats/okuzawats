@@ -15,11 +15,11 @@ Google Certified Associate Android Developerです。
 ## ブログの記事 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [「A Philosophy of Software Design」を読みました](https://okuzawats.com/blog/a-philosophy-of-software-design/)
 - [キャリアラダーとキャリアパス](https://okuzawats.com/blog/career-ladder-vs-career-path/)
 - [[Android] Robolectricとandroidx.test](https://okuzawats.com/blog/robolectric-vs-androidx-test/)
 - [テックリードとは](https://okuzawats.com/blog/techlead/)
 - [小さな石を積む](https://okuzawats.com/blog/pile-up-small-stones/)
-- [はじめてのGitHub Actions](https://okuzawats.com/blog/hello-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
