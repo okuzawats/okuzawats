@@ -15,11 +15,11 @@ Google Certified Associate Android Developerです。
 ## ブログの記事 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [Chatworkにメッセージを送信するGitHub Actionsを書いてみました](https://okuzawats.com/blog/send-message-to-chatwork-with-github-actions/)
 - [Rubyで標準入出力をテストする](https://okuzawats.com/blog/testing-standard-io-with-ruby/)
 - [フラー株式会社を退職しました](https://okuzawats.com/blog/retired-from-fuller/)
 - [「A Philosophy of Software Design」を読みました](https://okuzawats.com/blog/a-philosophy-of-software-design/)
 - [キャリアラダーとキャリアパス](https://okuzawats.com/blog/career-ladder-vs-career-path/)
-- [[Android] Robolectricとandroidx.test](https://okuzawats.com/blog/robolectric-vs-androidx-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
