@@ -15,11 +15,11 @@ Google Certified Associate Android Developerです。
 ## ブログの記事 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [Truth によるアサーション入門](https://okuzawats.com/blog/truth/)
 - [「Android ユニットテスト ヒッチハイク・ガイド」を頒布します](https://okuzawats.com/blog/android-unit-testing/)
 - [Chatworkにメッセージを送信するGitHub Actionsを公開しました🎉](https://okuzawats.com/blog/chatwork-messaging-action/)
 - [フラー株式会社を退職しました](https://okuzawats.com/blog/retired-from-fuller/)
 - [[Career] キャリアラダーとキャリアパス](https://okuzawats.com/blog/career-ladder-vs-career-path/)
-- [[Android] Robolectricとandroidx.test](https://okuzawats.com/blog/robolectric-vs-androidx-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
