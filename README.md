@@ -15,11 +15,11 @@ Google Certified Associate Android Developerです。
 ## ブログの記事 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [[Android] Clean Architecture の理論と実装](https://okuzawats.com/blog/clean-architecture/)
 - [Mockk によるモック入門](https://okuzawats.com/blog/mockk/)
 - [Truth によるアサーション入門](https://okuzawats.com/blog/truth/)
 - [「Android ユニットテスト ヒッチハイク・ガイド」を頒布します](https://okuzawats.com/blog/android-unit-testing/)
 - [Chatworkにメッセージを送信するGitHub Actionsを公開しました🎉](https://okuzawats.com/blog/chatwork-messaging-action/)
-- [フラー株式会社を退職しました](https://okuzawats.com/blog/retired-from-fuller/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
