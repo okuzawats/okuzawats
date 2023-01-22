@@ -15,11 +15,11 @@ Google Certified Associate Android Developerです。
 ## ブログの記事 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [[Android] build.gradle.ktsでJaCoCoを動かす](https://okuzawats.com/blog/configure-jacoco/)
 - [2022年の振り返り](https://okuzawats.com/blog/looking-back-2022/)
 - [[Android] EventBusの思い出🚌](https://okuzawats.com/blog/eventbus/)
 - [働くをもっと楽しくするために、Chatwork株式会社にジョインしました🚀](https://okuzawats.com/blog/joined-chatwork/)
 - [[Android] Clean Architecture の理論と実装](https://okuzawats.com/blog/clean-architecture/)
-- [Mockk によるモック入門](https://okuzawats.com/blog/mockk/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
