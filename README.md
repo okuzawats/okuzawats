@@ -15,11 +15,11 @@ Google Certified Associate Android Developerです。
 ## ブログの記事 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [単体テストの考え方 / 使い方を読みました](https://okuzawats.com/blog/unit-testing-principles-practices-and-patterns/)
 - [モック主義者](https://okuzawats.com/blog/mockist/)
 - [[Android] build.gradle.ktsでJaCoCoを動かす](https://okuzawats.com/blog/configure-jacoco/)
 - [2022年の振り返り](https://okuzawats.com/blog/looking-back-2022/)
 - [[Android] EventBusの思い出🚌](https://okuzawats.com/blog/eventbus/)
-- [働くをもっと楽しくするために、Chatwork株式会社にジョインしました🚀](https://okuzawats.com/blog/joined-chatwork/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
