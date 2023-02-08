@@ -1,16 +1,8 @@
 # About Me 😎
 
-Androidアプリエンジニア。
+茨城県つくば市在住のAndroidアプリエンジニア（モバイルアプリケーションアーキテクト）です。Android、Kotlin、GitHub Actionsが好きです。
 
-「Jetpack ComposeによるAndroid MVVMアーキテクチャ入門」の著者です。
-
-<img src="https://github.com/okuzawats/okuzawats/raw/main/img/mvvm.jpg" width="200" >
-
-[Jetpack ComposeによるAndroid MVVMアーキテクチャ入門](https://nextpublishing.jp/book/13660.html)
-
-Google Certified Associate Android Developerです。 
-
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22745791?key=91642f55a8d5ce14b85a29e0884729eb3a09a45d02d2f24fc8d7ebf1c6fed1cd" />
+著書に[Jetpack ComposeによるAndroid MVVMアーキテクチャ入門](https://nextpublishing.jp/book/13660.html)があります。
 
 ## ブログの記事 🚀
 
