@@ -16,8 +16,6 @@
 
 ## 登壇資料 🎙️
 
-過去の登壇資料を以下のリポジトリ内に公開しています。
-
 - [KDoc in a nutshell](https://github.com/okuzawats/slide/blob/main/20200821_Yumemi_apk_%231/KDoc_in_a_nutshell.md)
 - [Say good-bye to Kotlin Android Extensions](https://github.com/okuzawats/slide/blob/main/20201127_Yumemi_apk_%232/say_good-bye_to_kotlin_android_extensions.md)
 - [Kotlinのifを愛でる](https://github.com/okuzawats/slide/blob/main/20220311_Chura_Collaboration_%239/love-kotlin-if.md)
