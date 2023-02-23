@@ -1,8 +1,6 @@
 # About Me 😎
 
-茨城県つくば市在住のAndroidアプリエンジニア（モバイルアプリケーションアーキテクト）です。Android、Kotlin、GitHub Actionsが好きです。
-
-著書に[Jetpack ComposeによるAndroid MVVMアーキテクチャ入門](https://nextpublishing.jp/book/13660.html)があります。
+茨城県つくば市在住のAndroidアプリエンジニア（モバイルアプリケーションアーキテクト）です。著書に[Jetpack ComposeによるAndroid MVVMアーキテクチャ入門](https://nextpublishing.jp/book/13660.html)があります。
 
 ## ブログ 🚀
 
