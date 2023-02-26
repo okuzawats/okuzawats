@@ -5,11 +5,11 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [SwiftでFizzBuzz](https://okuzawats.com/blog/swift-fizzbuzz/)
 - [[MacOS] HomebrewからGitをインストールする](https://okuzawats.com/blog/install-git-on-mac-from-homebrew/)
 - [単体テストの考え方 / 使い方を読みました](https://okuzawats.com/blog/unit-testing-principles-practices-and-patterns/)
 - [モック主義者](https://okuzawats.com/blog/mockist/)
 - [[Android] build.gradle.ktsでJaCoCoを動かす](https://okuzawats.com/blog/configure-jacoco/)
-- [2022年の振り返り](https://okuzawats.com/blog/looking-back-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
