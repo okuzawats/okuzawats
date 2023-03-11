@@ -5,11 +5,11 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [ソフトウェアエンジニアのキャリアパス](https://okuzawats.com/blog/software-engineer-career-path/)
 - [SwiftでFizzBuzz](https://okuzawats.com/blog/swift-fizzbuzz/)
 - [[MacOS] HomebrewからGitをインストールする](https://okuzawats.com/blog/install-git-on-mac-from-homebrew/)
 - [単体テストの考え方 / 使い方を読みました](https://okuzawats.com/blog/unit-testing-principles-practices-and-patterns/)
 - [モック主義者](https://okuzawats.com/blog/mockist/)
-- [[Android] build.gradle.ktsでJaCoCoを動かす](https://okuzawats.com/blog/configure-jacoco/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
