@@ -21,6 +21,7 @@
 - [KDoc in a nutshell](https://speakerdeck.com/okuzawats/kdoc-in-a-nutshell)
 
 ## プログラミング言語 💻
+[![okuzawats's GitHub stats](https://github-readme-stats.vercel.app/api?username=okuzawats)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okuzawats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![okuzawats's GitHub stats](https://github-readme-stats.vercel.app/api?username=okuzawats)](https://github.com/anuraghazra/github-readme-stats)
