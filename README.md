@@ -5,11 +5,11 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [「iOS開発におけるパターンによるオートマティズム」を再読しました](https://okuzawats.com/blog/automatism-by-the-patterns/)
 - [何故、Squareクラスはリスコフの置換原則（LSP）に違反するのか](https://okuzawats.com/blog/square-violate-lsp/)
 - [Androidアプリ開発におけるセマンティック・バージョニング](https://okuzawats.com/blog/semver-in-android/)
 - [DroidKaigi.collect{ #1@Tokyo }で「例外を投げるな、値を返せ」というLTをしました](https://okuzawats.com/blog/do-not-throw-exception-return-value/)
 - [Truthのカスタムサブジェクトを定義する](https://okuzawats.com/blog/truth-custom-subject/)
-- [短絡評価を乱用しないでください🙅‍♂️](https://okuzawats.com/blog/do-not-abuse-short-circuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
