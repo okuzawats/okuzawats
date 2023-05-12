@@ -24,7 +24,7 @@
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/okuzawats" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.65&b=3.43&i=3.63&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 5/11/2023, 12:07:03 AM
+Last Updated on 5/12/2023, 12:06:49 AM
 <!--END_SECTION:lapras-card-->
 
 [![okuzawats's GitHub stats](https://github-readme-stats.vercel.app/api?username=okuzawats)](https://github.com/anuraghazra/github-readme-stats)
