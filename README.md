@@ -14,6 +14,7 @@
 
 ## 登壇資料 🎙️
 
+- [何故、UseCaseは1メソッドなのか](https://speakerdeck.com/okuzawats/he-gu-usecaseha1mesotudonanoka)
 - [例外を投げるな、値を返せ](https://speakerdeck.com/okuzawats/li-wai-wotou-geruna-zhi-wofan-se)
 - [GitHub ActionsでAndroidアプリのテストを回しまくってたら全プロジェクトのCI/CDが完全停止する寸前だった件](https://speakerdeck.com/okuzawats/cdgawan-quan-ting-zhi-surucun-qian-datutajian)
 - [Kotlinのifを愛でる](https://speakerdeck.com/okuzawats/kotlinnoifwoai-deru)
