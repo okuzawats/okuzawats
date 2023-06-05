@@ -5,11 +5,11 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [ランチタイムLT会 #1で「何故、UseCaseは1メソッドなのか」というLTをしました](https://okuzawats.com/blog/why-usecase-has-only-one-method/)
+- [「Android クリーンアーキテクチャ ヒッチハイク・ガイド」を頒布しました](https://okuzawats.com/blog/android-clean-architecture/)
 - [ソフトウェアデザイン 2023年6月号にAndroidアプリ開発におけるクリーンアーキテクチャについて執筆しました](https://okuzawats.com/blog/clean-architecture-in-mobile-app/)
 - [「iOS開発におけるパターンによるオートマティズム」を再読しました](https://okuzawats.com/blog/automatism-by-the-patterns/)
 - [何故、Squareクラスはリスコフの置換原則（LSP）に違反するのか](https://okuzawats.com/blog/square-violate-lsp/)
-- [Androidアプリ開発におけるセマンティック・バージョニング](https://okuzawats.com/blog/semver-in-android/)
-- [DroidKaigi.collect{ #1@Tokyo }で「例外を投げるな、値を返せ」というLTをしました](https://okuzawats.com/blog/do-not-throw-exception-return-value/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
