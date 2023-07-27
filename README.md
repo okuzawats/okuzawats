@@ -24,8 +24,8 @@
 ## その他 💻
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/okuzawats" target="_blank" rel="noopener noreferrer"><img alt="okuzawatsのLAPRASでのスコアは次の通りです: エンジニアリング: 3.78 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.64 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.78&b=3.43&i=3.64&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 7/26/2023, 12:07:33 AM</p>
+<p ><a href="https://lapras.com/public/okuzawats" target="_blank" rel="noopener noreferrer"><img alt="okuzawatsのLAPRASでのスコアは次の通りです: エンジニアリング: 3.79 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.64 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.79&b=3.43&i=3.64&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 7/27/2023, 12:07:17 AM</p>
 <!--END_SECTION:lapras-card-->
 
 [![okuzawats's GitHub stats](https://github-readme-stats.vercel.app/api?username=okuzawats)](https://github.com/anuraghazra/github-readme-stats)
