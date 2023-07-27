@@ -5,11 +5,11 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistel Barocco MD770RGBを買いました](https://okuzawats.com/blog/barocco/)
 - [[Android] 単体テスト用の依存関係をHiltで解決する](https://okuzawats.com/blog/test-dependency-by-hilt/)
 - [俺のパブリックリポジトリ](https://okuzawats.com/blog/my-public-repositories/)
 - [GitHub ActionsでktlintとAndroid Lintを並列実行して、DangerでPRにまとめてコメントする🐝](https://okuzawats.com/blog/lint-android-with-github-actions/)
 - [ランチタイムLT会 #1で「何故、UseCaseは1メソッドなのか」というLTをしました](https://okuzawats.com/blog/why-usecase-has-only-one-method/)
-- [「Android クリーンアーキテクチャ ヒッチハイク・ガイド」を頒布しました](https://okuzawats.com/blog/android-clean-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
