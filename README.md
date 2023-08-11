@@ -5,11 +5,11 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [ADR-Toolsを使ってADR（Architecture Decision Record）を作る](https://okuzawats.com/blog/adr/)
 - [[Android] Uniflowを用いたMVI的なアーキテクチャを試してみる🦄](https://okuzawats.com/blog/uniflow/)
 - [Mistel Barocco MD770RGBを買いました](https://okuzawats.com/blog/barocco/)
 - [[Android] 単体テスト用の依存関係をHiltで解決する](https://okuzawats.com/blog/test-dependency-by-hilt/)
 - [俺のパブリックリポジトリ](https://okuzawats.com/blog/my-public-repositories/)
-- [GitHub ActionsでktlintとAndroid Lintを並列実行して、DangerでPRにまとめてコメントする🐝](https://okuzawats.com/blog/lint-android-with-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
