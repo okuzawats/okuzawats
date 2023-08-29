@@ -1,6 +1,13 @@
-# About Me 😎
+# Hi there 👋
 
-茨城県つくば市在住のAndroidアプリエンジニア（モバイルアプリケーションアーキテクト）です。著書に[Jetpack ComposeによるAndroid MVVMアーキテクチャ入門](https://nextpublishing.jp/book/13660.html)があります。
+茨城県つくば市在住のAndroidアプリエンジニア（モバイルアプリケーションアーキテクト）です。
+
+## 書いたもの 🖊️
+
+- [Software Design 2023年6月号｜技術評論社](https://gihyo.jp/magazine/SD/archive/2023/202306)（2023年）
+  - 特集「クリーンアーキテクチャとは何か？」の第5章「モバイルアプリ開発における実践」を執筆しました。
+- [Jetpack ComposeによるAndroid MVVMアーキテクチャ入門](https://nextpublishing.jp/book/13660.html)（2021年）
+  - Next Publishing様より発売中。
 
 ## ブログ 🚀
 
