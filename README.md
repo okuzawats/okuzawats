@@ -12,6 +12,7 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [DroidKaigi 2023に行ってきた](https://okuzawats.com/blog/droidkaigi-2023/)
 - [ADR-Toolsを使ってADR（Architecture Decision Record）を作る](https://okuzawats.com/blog/adr/)
 - [[Android] Uniflowを用いたMVI的なアーキテクチャを試してみる🦄](https://okuzawats.com/blog/uniflow/)
 - [Mistel Barocco MD770RGBを買いました](https://okuzawats.com/blog/barocco/)
@@ -21,7 +22,6 @@
 - [ランチタイムLT会 #1で「何故、UseCaseは1メソッドなのか」というLTをしました](https://okuzawats.com/blog/why-usecase-has-only-one-method/)
 - [「Android クリーンアーキテクチャ ヒッチハイク・ガイド」を頒布しました](https://okuzawats.com/blog/android-clean-architecture/)
 - [ソフトウェアデザイン 2023年6月号にAndroidアプリ開発におけるクリーンアーキテクチャについて執筆しました](https://okuzawats.com/blog/clean-architecture-in-mobile-app/)
-- [「iOS開発におけるパターンによるオートマティズム」を再読しました](https://okuzawats.com/blog/automatism-by-the-patterns/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
