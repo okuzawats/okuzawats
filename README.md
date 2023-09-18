@@ -12,6 +12,7 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub ActionsでSonarCloudにカバレッジをアップロードする](https://okuzawats.com/blog/upload-coverage-report-to-sonarcloud/)
 - [DroidKaigi 2023に行ってきた](https://okuzawats.com/blog/droidkaigi-2023/)
 - [ADR-Toolsを使ってADR（Architecture Decision Record）を作る](https://okuzawats.com/blog/adr/)
 - [[Android] Uniflowを用いたMVI的なアーキテクチャを試してみる🦄](https://okuzawats.com/blog/uniflow/)
@@ -21,7 +22,6 @@
 - [GitHub ActionsでktlintとAndroid Lintを並列実行して、DangerでPRにまとめてコメントする🐝](https://okuzawats.com/blog/lint-android-with-github-actions/)
 - [ランチタイムLT会 #1で「何故、UseCaseは1メソッドなのか」というLTをしました](https://okuzawats.com/blog/why-usecase-has-only-one-method/)
 - [「Android クリーンアーキテクチャ ヒッチハイク・ガイド」を頒布しました](https://okuzawats.com/blog/android-clean-architecture/)
-- [ソフトウェアデザイン 2023年6月号にAndroidアプリ開発におけるクリーンアーキテクチャについて執筆しました](https://okuzawats.com/blog/clean-architecture-in-mobile-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
