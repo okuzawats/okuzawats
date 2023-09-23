@@ -12,6 +12,7 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [[Kotlin] 関数定義が1つだけのinterfaceは `fun interface` で定義できる](https://okuzawats.com/blog/functional-interface/)
 - [GitHub ActionsでSonarCloudにカバレッジをアップロードする](https://okuzawats.com/blog/upload-coverage-report-to-sonarcloud/)
 - [DroidKaigi 2023に行ってきた](https://okuzawats.com/blog/droidkaigi-2023/)
 - [ADR-Toolsを使ってADR（Architecture Decision Record）を作る](https://okuzawats.com/blog/adr/)
@@ -21,7 +22,6 @@
 - [俺のパブリックリポジトリ](https://okuzawats.com/blog/my-public-repositories/)
 - [GitHub ActionsでktlintとAndroid Lintを並列実行して、DangerでPRにまとめてコメントする🐝](https://okuzawats.com/blog/lint-android-with-github-actions/)
 - [ランチタイムLT会 #1で「何故、UseCaseは1メソッドなのか」というLTをしました](https://okuzawats.com/blog/why-usecase-has-only-one-method/)
-- [「Android クリーンアーキテクチャ ヒッチハイク・ガイド」を頒布しました](https://okuzawats.com/blog/android-clean-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
