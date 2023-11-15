@@ -12,6 +12,7 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [さくらのクラウドのウェブアクセラレータとオブジェクトストレージで静的サイトを配信する（HugoとGitHub Actionsを添えて）](https://okuzawats.com/blog/hosting-blog-on-sakura-cloud/)
 - [[Kotlin] 関数定義が1つだけのinterfaceは `fun interface` で定義できる](https://okuzawats.com/blog/functional-interface/)
 - [GitHub ActionsでSonarCloudにカバレッジをアップロードする](https://okuzawats.com/blog/upload-coverage-report-to-sonarcloud/)
 - [DroidKaigi 2023に行ってきた](https://okuzawats.com/blog/droidkaigi-2023/)
@@ -21,7 +22,6 @@
 - [[Android] 単体テスト用の依存関係をHiltで解決する](https://okuzawats.com/blog/test-dependency-by-hilt/)
 - [俺のパブリックリポジトリ](https://okuzawats.com/blog/my-public-repositories/)
 - [GitHub ActionsでktlintとAndroid Lintを並列実行して、DangerでPRにまとめてコメントする🐝](https://okuzawats.com/blog/lint-android-with-github-actions/)
-- [ランチタイムLT会 #1で「何故、UseCaseは1メソッドなのか」というLTをしました](https://okuzawats.com/blog/why-usecase-has-only-one-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
