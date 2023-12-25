@@ -12,6 +12,7 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [2023年の振り返り](https://okuzawats.com/blog/looking-back-2023/)
 - [[Android] SQLiteのインメモリデータベースで単体テストを書く](https://okuzawats.com/blog/testing-sqlite/)
 - [[Android] 単体テスト用の依存関係をHiltで解決し、かつ例外のテストを行いたい場合のパターン](https://okuzawats.com/blog/test-dependency-by-hilt-and-testing-exception/)
 - [さくらのクラウドのウェブアクセラレータとオブジェクトストレージで静的サイトを配信する（HugoとGitHub Actionsを添えて）](https://okuzawats.com/blog/hosting-blog-on-sakura-cloud/)
@@ -21,7 +22,6 @@
 - [ADR-Toolsを使ってADR（Architecture Decision Record）を作る](https://okuzawats.com/blog/adr/)
 - [[Android] Uniflowを用いたMVI的なアーキテクチャを試してみる🦄](https://okuzawats.com/blog/uniflow/)
 - [Mistel Barocco MD770RGBを買いました](https://okuzawats.com/blog/barocco/)
-- [[Android] 単体テスト用の依存関係をHiltで解決する](https://okuzawats.com/blog/test-dependency-by-hilt/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
