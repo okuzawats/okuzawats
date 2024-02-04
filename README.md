@@ -12,6 +12,7 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [Luaでエラトステネスの篩を実装してみた](https://okuzawats.com/blog/sieve-of-eratosthenes/)
 - [「ソフトウェアアーキテクチャの基礎」をアーキテクトのキャリアガイドとして読む](https://okuzawats.com/blog/fundamentals-of-software-architecture/)
 - [2023年の振り返り](https://okuzawats.com/blog/looking-back-2023/)
 - [[Android] SQLiteのインメモリデータベースで単体テストを書く](https://okuzawats.com/blog/testing-sqlite/)
@@ -21,7 +22,6 @@
 - [GitHub ActionsでSonarCloudにカバレッジをアップロードする](https://okuzawats.com/blog/upload-coverage-report-to-sonarcloud/)
 - [DroidKaigi 2023に行ってきた](https://okuzawats.com/blog/droidkaigi-2023/)
 - [ADR-Toolsを使ってADR（Architecture Decision Record）を作る](https://okuzawats.com/blog/adr/)
-- [[Android] Uniflowを用いたMVI的なアーキテクチャを試してみる🦄](https://okuzawats.com/blog/uniflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
