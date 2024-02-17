@@ -12,6 +12,7 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [LuaでAtCoderの過去問精選10問を味わう](https://okuzawats.com/blog/atcoder-with-lua/)
 - [Luaでエラトステネスの篩を実装してみた](https://okuzawats.com/blog/sieve-of-eratosthenes/)
 - [「ソフトウェアアーキテクチャの基礎」をアーキテクトのキャリアガイドとして読む](https://okuzawats.com/blog/fundamentals-of-software-architecture/)
 - [2023年の振り返り](https://okuzawats.com/blog/looking-back-2023/)
@@ -21,7 +22,6 @@
 - [[Kotlin] 関数定義が1つだけのinterfaceは `fun interface` で定義できる](https://okuzawats.com/blog/functional-interface/)
 - [GitHub ActionsでSonarCloudにカバレッジをアップロードする](https://okuzawats.com/blog/upload-coverage-report-to-sonarcloud/)
 - [DroidKaigi 2023に行ってきた](https://okuzawats.com/blog/droidkaigi-2023/)
-- [ADR-Toolsを使ってADR（Architecture Decision Record）を作る](https://okuzawats.com/blog/adr/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
