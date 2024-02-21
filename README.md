@@ -12,6 +12,7 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [薄型の左右分離型キーボード「Hatsukey70」を組み立てました⌨️](https://okuzawats.com/blog/hatsukey70/)
 - [LuaでAtCoderの過去問精選10問を味わう](https://okuzawats.com/blog/atcoder-with-lua/)
 - [Luaでエラトステネスの篩を実装してみた](https://okuzawats.com/blog/sieve-of-eratosthenes/)
 - [「ソフトウェアアーキテクチャの基礎」をアーキテクトのキャリアガイドとして読む](https://okuzawats.com/blog/fundamentals-of-software-architecture/)
@@ -21,7 +22,6 @@
 - [さくらのクラウドのウェブアクセラレータとオブジェクトストレージで静的サイトを配信する（HugoとGitHub Actionsを添えて）](https://okuzawats.com/blog/hosting-blog-on-sakura-cloud/)
 - [[Kotlin] 関数定義が1つだけのinterfaceは `fun interface` で定義できる](https://okuzawats.com/blog/functional-interface/)
 - [GitHub ActionsでSonarCloudにカバレッジをアップロードする](https://okuzawats.com/blog/upload-coverage-report-to-sonarcloud/)
-- [DroidKaigi 2023に行ってきた](https://okuzawats.com/blog/droidkaigi-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
