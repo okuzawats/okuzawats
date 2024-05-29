@@ -12,6 +12,7 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [定率成長配当割引モデル](https://okuzawats.com/blog/diviend-growth-model/)
 - [数列、等比数列、等比級数、無限等比級数](https://okuzawats.com/blog/geometric-sequence/)
 - [「品質は誰かにとっての価値である」（G.M.ワインバーグ）](https://okuzawats.com/blog/what-weinburg-says-about-quality/)
 - [「ロジクールERGO K860ワイヤレススプリットキーボード」を買いました⌨️](https://okuzawats.com/blog/ergo-k860/)
@@ -21,7 +22,6 @@
 - [「ソフトウェアアーキテクチャの基礎」をアーキテクトのキャリアガイドとして読む](https://okuzawats.com/blog/fundamentals-of-software-architecture/)
 - [2023年の振り返り](https://okuzawats.com/blog/looking-back-2023/)
 - [[Android] SQLiteのインメモリデータベースで単体テストを書く](https://okuzawats.com/blog/testing-sqlite/)
-- [[Android] 単体テスト用の依存関係をHiltで解決し、かつ例外のテストを行いたい場合のパターン](https://okuzawats.com/blog/test-dependency-by-hilt-and-testing-exception/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
