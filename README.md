@@ -12,6 +12,7 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actionsでyamlにlintをかける](https://okuzawats.com/blog/run-yamllint-in-github-actions/)
 - [「LEADING QUALITY（リーディングクオリティ）」を読みました📚](https://okuzawats.com/blog/leading-quality/)
 - [定率成長配当割引モデル](https://okuzawats.com/blog/diviend-growth-model/)
 - [数列、等比数列、等比級数、無限等比級数](https://okuzawats.com/blog/geometric-sequence/)
@@ -21,7 +22,6 @@
 - [LuaでAtCoderの過去問精選10問を味わう](https://okuzawats.com/blog/atcoder-with-lua/)
 - [Luaでエラトステネスの篩を実装してみた](https://okuzawats.com/blog/sieve-of-eratosthenes/)
 - [「ソフトウェアアーキテクチャの基礎」をアーキテクトのキャリアガイドとして読む](https://okuzawats.com/blog/fundamentals-of-software-architecture/)
-- [2023年の振り返り](https://okuzawats.com/blog/looking-back-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
