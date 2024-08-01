@@ -12,7 +12,8 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
-- [「手を動かしてわかるクリーンアーキテクチャ」を読みました](https://okuzawats.com/blog/get-your-hands-dirty-on-clean-architecture/)
+- [バグ修正は設計改善チャンス🐛](https://okuzawats.com/blog/embrace-bug-fix/)
+- [「手を動かしてわかるクリーンアーキテクチャ」を読みました📚](https://okuzawats.com/blog/get-your-hands-dirty-on-clean-architecture/)
 - [GitHub Actionsでyamlにlintをかける](https://okuzawats.com/blog/run-yamllint-in-github-actions/)
 - [「LEADING QUALITY（リーディングクオリティ）」を読みました📚](https://okuzawats.com/blog/leading-quality/)
 - [定率成長配当割引モデル](https://okuzawats.com/blog/diviend-growth-model/)
@@ -21,7 +22,6 @@
 - [「ロジクールERGO K860ワイヤレススプリットキーボード」を買いました⌨️](https://okuzawats.com/blog/ergo-k860/)
 - [薄型の左右分離型キーボード「Hatsukey70」を組み立てました⌨️](https://okuzawats.com/blog/hatsukey70/)
 - [LuaでAtCoderの過去問精選10問を味わう](https://okuzawats.com/blog/atcoder-with-lua/)
-- [Luaでエラトステネスの篩を実装してみた](https://okuzawats.com/blog/sieve-of-eratosthenes/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
