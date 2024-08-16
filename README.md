@@ -12,6 +12,7 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [はじめてのSwiftUI](https://okuzawats.com/blog/swiftui/)
 - [バグ修正は設計改善チャンス🐛](https://okuzawats.com/blog/embrace-bug-fix/)
 - [「手を動かしてわかるクリーンアーキテクチャ」を読みました📚](https://okuzawats.com/blog/get-your-hands-dirty-on-clean-architecture/)
 - [GitHub Actionsでyamlにlintをかける](https://okuzawats.com/blog/run-yamllint-in-github-actions/)
@@ -21,7 +22,6 @@
 - [「品質は誰かにとっての価値である」（G.M.ワインバーグ）](https://okuzawats.com/blog/what-weinburg-says-about-quality/)
 - [「ロジクールERGO K860ワイヤレススプリットキーボード」を買いました⌨️](https://okuzawats.com/blog/ergo-k860/)
 - [薄型の左右分離型キーボード「Hatsukey70」を組み立てました⌨️](https://okuzawats.com/blog/hatsukey70/)
-- [LuaでAtCoderの過去問精選10問を味わう](https://okuzawats.com/blog/atcoder-with-lua/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
