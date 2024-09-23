@@ -12,6 +12,7 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [goenvでGoのバージョンを管理する](https://okuzawats.com/blog/goenv/)
 - [はじめてのSwiftUI](https://okuzawats.com/blog/swiftui/)
 - [バグ修正は設計改善チャンス🐛](https://okuzawats.com/blog/embrace-bug-fix/)
 - [「手を動かしてわかるクリーンアーキテクチャ」を読みました📚](https://okuzawats.com/blog/get-your-hands-dirty-on-clean-architecture/)
@@ -21,7 +22,6 @@
 - [数列、等比数列、等比級数、無限等比級数](https://okuzawats.com/blog/geometric-sequence/)
 - [「品質は誰かにとっての価値である」（G.M.ワインバーグ）](https://okuzawats.com/blog/what-weinburg-says-about-quality/)
 - [「ロジクールERGO K860ワイヤレススプリットキーボード」を買いました⌨️](https://okuzawats.com/blog/ergo-k860/)
-- [薄型の左右分離型キーボード「Hatsukey70」を組み立てました⌨️](https://okuzawats.com/blog/hatsukey70/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
