@@ -4,8 +4,10 @@
 
 ## 書いたもの 🖊️
 
+- [入門 ドメイン駆動設計 - 基礎と実践・クリーンアーキテクチャ](https://gihyo.jp/book/2024/978-4-297-14317-6)（2024年）
+  - Software Design 2023年6月号に寄稿した記事が好評だったためムック本に再録されました。
 - [Software Design 2023年6月号｜技術評論社](https://gihyo.jp/magazine/SD/archive/2023/202306)（2023年）
-  - 特集「クリーンアーキテクチャとは何か？」の第5章「モバイルアプリ開発における実践」を執筆しました。
+  - 特集「クリーンアーキテクチャとは何か？」の第5章「モバイルアプリ開発における実践」を寄稿しました。
 - [Jetpack ComposeによるAndroid MVVMアーキテクチャ入門](https://nextpublishing.jp/book/13660.html)（2021年）
   - Next Publishing様より発売中。
 
