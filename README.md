@@ -28,6 +28,7 @@
 
 ## 登壇資料 🎙️
 
+- [カンファレンス参加をいかに正当化するか](https://speakerdeck.com/okuzawats/kanhuarensucan-jia-woikanizheng-dang-hua-suruka)
 - [Androidアプリ開発におけるSonarCloudの活用](https://speakerdeck.com/okuzawats/androidapurikai-fa-niokerusonarcloudnohuo-yong)
 - [何故、UseCaseは1メソッドなのか](https://speakerdeck.com/okuzawats/he-gu-usecaseha1mesotudonanoka)
 - [例外を投げるな、値を返せ](https://speakerdeck.com/okuzawats/li-wai-wotou-geruna-zhi-wofan-se)
