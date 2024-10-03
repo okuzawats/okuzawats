@@ -9,7 +9,7 @@
 - [Software Design 2023年6月号｜技術評論社](https://gihyo.jp/magazine/SD/archive/2023/202306)（2023年）
   - 特集「クリーンアーキテクチャとは何か？」の第5章「モバイルアプリ開発における実践」を寄稿しました。
 - [Jetpack ComposeによるAndroid MVVMアーキテクチャ入門](https://nextpublishing.jp/book/13660.html)（2021年）
-  - Next Publishing様より発売中。
+  - Next Publishing様より発売中です。
 
 ## ブログ 🚀
 
