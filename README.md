@@ -14,6 +14,7 @@
 ## ブログ 🚀
 
 <!-- BLOG-POST-LIST:START -->
+- [[Kotlin] Non-Nullにこだわらず、適切にNullableを使う](https://okuzawats.com/blog/nullable-or-non-null/)
 - [goenvでGoのバージョンを管理する](https://okuzawats.com/blog/goenv/)
 - [はじめてのSwiftUI](https://okuzawats.com/blog/swiftui/)
 - [バグ修正は設計改善チャンス🐛](https://okuzawats.com/blog/embrace-bug-fix/)
@@ -23,7 +24,6 @@
 - [定率成長配当割引モデル](https://okuzawats.com/blog/diviend-growth-model/)
 - [数列、等比数列、等比級数、無限等比級数](https://okuzawats.com/blog/geometric-sequence/)
 - [「品質は誰かにとっての価値である」（G.M.ワインバーグ）](https://okuzawats.com/blog/what-weinburg-says-about-quality/)
-- [「ロジクールERGO K860ワイヤレススプリットキーボード」を買いました⌨️](https://okuzawats.com/blog/ergo-k860/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料 🎙️
