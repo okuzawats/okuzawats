@@ -2,7 +2,7 @@
 
 茨城県つくば市在住のAndroidアプリエンジニア（モバイルアプリケーションアーキテクト）です。
 
-## 書いたもの 🖊️
+## 執筆📚
 
 - [入門 ドメイン駆動設計 - 基礎と実践・クリーンアーキテクチャ](https://gihyo.jp/book/2024/978-4-297-14317-6)（2024年）
   - Software Design 2023年6月号に寄稿した記事が好評だったためムック本に再録されました。
@@ -11,7 +11,13 @@
 - [Jetpack ComposeによるAndroid MVVMアーキテクチャ入門](https://nextpublishing.jp/book/13660.html)（2021年）
   - Next Publishing様より発売中です。
 
-## ブログ 🚀
+## コード#️⃣
+
+- [okuzawats/android-clean-architecture: Android Clean Architecture Sample App (WIP🤪)](https://github.com/okuzawats/android-clean-architecture)
+- [okuzawats/kotlin-stone: Kotlin Option and Either.](https://github.com/okuzawats/kotlin-stone)
+- [okuzawats/sample-flutter-app-ci-with-github-actions: flutter CI sample with GitHub Actions](https://github.com/okuzawats/sample-flutter-app-ci-with-github-actions)
+
+## ブログ📝
 
 <!-- BLOG-POST-LIST:START -->
 - [[Kotlin] Non-Nullにこだわらず、適切にNullableを使う](https://okuzawats.com/blog/nullable-or-non-null/)
