@@ -11,11 +11,21 @@
 - [Jetpack ComposeによるAndroid MVVMアーキテクチャ入門](https://nextpublishing.jp/book/13660.html)（2021年）
   - Next Publishing様より発売中です。
 
+その他に、以下の本をZennにて無料公開しています。
+
+- [Android ユニットテスト ヒッチハイク・ガイド](https://zenn.dev/okuzawats/books/android-unit-testing)
+- [Android 依存性注入 ヒッチハイク・ガイド](https://zenn.dev/okuzawats/books/android-dependency-injection)
+- [Android クリーンアーキテクチャ ヒッチハイク・ガイド](https://zenn.dev/okuzawats/books/android-clean-architecture)
+- [GitHub Actionsで始めるFlutter CI/CD入門](https://zenn.dev/okuzawats/books/say-hello-to-fluter-ci-cd-with-github-actions)
+
 ## コード#️⃣
 
 - [okuzawats/android-clean-architecture: Android Clean Architecture Sample App (WIP🤪)](https://github.com/okuzawats/android-clean-architecture)
+  - Androidアプリにおけるクリーンアーキテクチャの実装サンプルです。
 - [okuzawats/kotlin-stone: Kotlin Option and Either.](https://github.com/okuzawats/kotlin-stone)
+  - KotlinでOptionやEitherを使えるようにするためのライブラリです。
 - [okuzawats/sample-flutter-app-ci-with-github-actions: flutter CI sample with GitHub Actions](https://github.com/okuzawats/sample-flutter-app-ci-with-github-actions)
+  - FlutterのCIのサンプルです。[GitHub Actionsで始めるFlutter CI/CD入門](https://zenn.dev/okuzawats/books/say-hello-to-fluter-ci-cd-with-github-actions)のサンプルコードです。
 
 ## ブログ📝
 
@@ -32,7 +42,7 @@
 - [「品質は誰かにとっての価値である」（G.M.ワインバーグ）](https://okuzawats.com/blog/what-weinburg-says-about-quality/)
 <!-- BLOG-POST-LIST:END -->
 
-## 登壇資料 🎙️
+## 登壇資料🎙️
 
 - [カンファレンス参加をいかに正当化するか](https://speakerdeck.com/okuzawats/kanhuarensucan-jia-woikanizheng-dang-hua-suruka)
 - [Androidアプリ開発におけるSonarCloudの活用](https://speakerdeck.com/okuzawats/androidapurikai-fa-niokerusonarcloudnohuo-yong)
