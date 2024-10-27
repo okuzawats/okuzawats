@@ -48,6 +48,7 @@
 ## ブログ📝
 
 <!-- BLOG-POST-LIST:START -->
+- [「Go言語でつくるインタプリタ」を読みました📚](https://okuzawats.com/blog/writing-an-interpreter-in-go/)
 - [[Kotlin] Non-Nullにこだわらず、適切にNullableを使う](https://okuzawats.com/blog/nullable-or-non-null/)
 - [goenvでGoのバージョンを管理する](https://okuzawats.com/blog/goenv/)
 - [はじめてのSwiftUI](https://okuzawats.com/blog/swiftui/)
@@ -57,7 +58,6 @@
 - [「LEADING QUALITY（リーディングクオリティ）」を読みました📚](https://okuzawats.com/blog/leading-quality/)
 - [定率成長配当割引モデル](https://okuzawats.com/blog/diviend-growth-model/)
 - [数列、等比数列、等比級数、無限等比級数](https://okuzawats.com/blog/geometric-sequence/)
-- [「品質は誰かにとっての価値である」（G.M.ワインバーグ）](https://okuzawats.com/blog/what-weinburg-says-about-quality/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料🎙️
