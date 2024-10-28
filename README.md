@@ -18,7 +18,7 @@
 - [Android クリーンアーキテクチャ ヒッチハイク・ガイド](https://zenn.dev/okuzawats/books/android-clean-architecture)
 - [GitHub Actionsで始めるFlutter CI/CD入門](https://zenn.dev/okuzawats/books/say-hello-to-fluter-ci-cd-with-github-actions)
 
-## コード#️⃣
+## コード📜
 
 - [okuzawats/android-clean-architecture: Android Clean Architecture Sample App (WIP🤪)](https://github.com/okuzawats/android-clean-architecture)
   - Androidアプリにおけるクリーンアーキテクチャの実装サンプルです。
