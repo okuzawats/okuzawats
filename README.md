@@ -44,6 +44,7 @@
 
 ## 登壇資料🎙️
 
+- [Androidアプリのモジュール分割における:x:commonを考える](https://speakerdeck.com/okuzawats/androidapurinomoziyurufen-ge-niokeru-x-commonwokao-eru)
 - [「Chatwork」Android版アプリを 支える単体テストの現在](https://speakerdeck.com/okuzawats/chatwork-androidban-apuriwo-zhi-erudan-ti-tesutonoxian-zai)
 - [カンファレンス参加をいかに正当化するか](https://speakerdeck.com/okuzawats/kanhuarensucan-jia-woikanizheng-dang-hua-suruka)
 - [Androidアプリ開発におけるSonarCloudの活用](https://speakerdeck.com/okuzawats/androidapurikai-fa-niokerusonarcloudnohuo-yong)
