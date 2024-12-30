@@ -30,6 +30,7 @@
 ## ブログ📝
 
 <!-- BLOG-POST-LIST:START -->
+- [2024年の振り返り](https://okuzawats.com/blog/looking-back-2024/)
 - [「Go言語でつくるインタプリタ」を読みました📚](https://okuzawats.com/blog/writing-an-interpreter-in-go/)
 - [[Kotlin] Non-Nullにこだわらず、適切にNullableを使う](https://okuzawats.com/blog/nullable-or-non-null/)
 - [goenvでGoのバージョンを管理する](https://okuzawats.com/blog/goenv/)
@@ -39,7 +40,6 @@
 - [GitHub Actionsでyamlにlintをかける](https://okuzawats.com/blog/run-yamllint-in-github-actions/)
 - [「LEADING QUALITY（リーディングクオリティ）」を読みました📚](https://okuzawats.com/blog/leading-quality/)
 - [定率成長配当割引モデル](https://okuzawats.com/blog/diviend-growth-model/)
-- [数列、等比数列、等比級数、無限等比級数](https://okuzawats.com/blog/geometric-sequence/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料🎙️
