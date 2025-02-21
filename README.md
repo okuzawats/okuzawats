@@ -30,6 +30,7 @@
 ## ブログ📝
 
 <!-- BLOG-POST-LIST:START -->
+- [アーキテクトは庭師のようにふるまう](https://okuzawats.com/blog/architect-and-gardener/)
 - [Keychron K11 Max QMK/VIA ワイヤレスカスタムメカニカルキーボード（日本語配列）を買いました⌨️](https://okuzawats.com/blog/keychron-k11-max/)
 - [2024年の振り返り](https://okuzawats.com/blog/looking-back-2024/)
 - [「Go言語でつくるインタプリタ」を読みました📚](https://okuzawats.com/blog/writing-an-interpreter-in-go/)
@@ -39,7 +40,6 @@
 - [バグ修正は設計改善チャンス🐛](https://okuzawats.com/blog/embrace-bug-fix/)
 - [「手を動かしてわかるクリーンアーキテクチャ」を読みました📚](https://okuzawats.com/blog/get-your-hands-dirty-on-clean-architecture/)
 - [GitHub Actionsでyamlにlintをかける](https://okuzawats.com/blog/run-yamllint-in-github-actions/)
-- [「LEADING QUALITY（リーディングクオリティ）」を読みました📚](https://okuzawats.com/blog/leading-quality/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料🎙️
