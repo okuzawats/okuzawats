@@ -30,6 +30,7 @@
 ## ブログ📝
 
 <!-- BLOG-POST-LIST:START -->
+- [テスト駆動開発（TDD）と五輪書](https://okuzawats.com/blog/the-book-of-five-rings/)
 - [アーキテクトは庭師のようにふるまう](https://okuzawats.com/blog/architect-and-gardener/)
 - [Keychron K11 Max QMK/VIA ワイヤレスカスタムメカニカルキーボード（日本語配列）を買いました⌨️](https://okuzawats.com/blog/keychron-k11-max/)
 - [2024年の振り返り](https://okuzawats.com/blog/looking-back-2024/)
@@ -39,7 +40,6 @@
 - [はじめてのSwiftUI](https://okuzawats.com/blog/swiftui/)
 - [バグ修正は設計改善チャンス🐛](https://okuzawats.com/blog/embrace-bug-fix/)
 - [「手を動かしてわかるクリーンアーキテクチャ」を読みました📚](https://okuzawats.com/blog/get-your-hands-dirty-on-clean-architecture/)
-- [GitHub Actionsでyamlにlintをかける](https://okuzawats.com/blog/run-yamllint-in-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料🎙️
