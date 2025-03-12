@@ -44,6 +44,7 @@
 
 ## 登壇資料🎙️
 
+- [Chatwork Android版アプリ 障害対応の舞台裏](https://www.docswell.com/s/okuzawats/K22EM6-incident-management)
 - [Androidアプリのモジュール分割における:x:commonを考える](https://speakerdeck.com/okuzawats/androidapurinomoziyurufen-ge-niokeru-x-commonwokao-eru)
 - [「Chatwork」Android版アプリを 支える単体テストの現在](https://speakerdeck.com/okuzawats/chatwork-androidban-apuriwo-zhi-erudan-ti-tesutonoxian-zai)
 - [カンファレンス参加をいかに正当化するか](https://speakerdeck.com/okuzawats/kanhuarensucan-jia-woikanizheng-dang-hua-suruka)
