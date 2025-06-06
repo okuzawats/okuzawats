@@ -30,6 +30,7 @@
 ## ブログ📝
 
 <!-- BLOG-POST-LIST:START -->
+- [虫の目・鳥の目・魚の目👀](https://okuzawats.com/blog/eyes/)
 - [テスト駆動開発（TDD）と五輪書](https://okuzawats.com/blog/the-book-of-five-rings/)
 - [アーキテクトは庭師のようにふるまう](https://okuzawats.com/blog/architect-and-gardener/)
 - [Keychron K11 Max QMK/VIA ワイヤレスカスタムメカニカルキーボード（日本語配列）を買いました⌨️](https://okuzawats.com/blog/keychron-k11-max/)
@@ -39,7 +40,6 @@
 - [goenvでGoのバージョンを管理する](https://okuzawats.com/blog/goenv/)
 - [はじめてのSwiftUI](https://okuzawats.com/blog/swiftui/)
 - [バグ修正は設計改善チャンス🐛](https://okuzawats.com/blog/embrace-bug-fix/)
-- [「手を動かしてわかるクリーンアーキテクチャ」を読みました📚](https://okuzawats.com/blog/get-your-hands-dirty-on-clean-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料🎙️
