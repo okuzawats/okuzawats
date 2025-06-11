@@ -30,6 +30,7 @@
 ## ブログ📝
 
 <!-- BLOG-POST-LIST:START -->
+- [DartでFizzBuzz](https://okuzawats.com/blog/dart-fizzbuzz/)
 - [DartでHello World](https://okuzawats.com/blog/dart-hello-world/)
 - [虫の目・鳥の目・魚の目👀](https://okuzawats.com/blog/eyes/)
 - [テスト駆動開発（TDD）と五輪書](https://okuzawats.com/blog/the-book-of-five-rings/)
@@ -39,7 +40,6 @@
 - [「Go言語でつくるインタプリタ」を読みました📚](https://okuzawats.com/blog/writing-an-interpreter-in-go/)
 - [[Kotlin] Non-Nullにこだわらず、適切にNullableを使う](https://okuzawats.com/blog/nullable-or-non-null/)
 - [goenvでGoのバージョンを管理する](https://okuzawats.com/blog/goenv/)
-- [はじめてのSwiftUI](https://okuzawats.com/blog/swiftui/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料🎙️
