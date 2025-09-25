@@ -30,6 +30,7 @@
 ## ブログ📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Dartのオプショナルタイピング（任意の型付け）](https://okuzawats.com/blog/dart-optional-typing/)
 - [マインスイーパーで不確実性との付き合い方を考える💣](https://okuzawats.com/blog/minesweeper/)
 - [DartでFizzBuzz](https://okuzawats.com/blog/dart-fizzbuzz/)
 - [DartでHello World](https://okuzawats.com/blog/dart-hello-world/)
@@ -39,7 +40,6 @@
 - [Keychron K11 Max QMK/VIA ワイヤレスカスタムメカニカルキーボード（日本語配列）を買いました⌨️](https://okuzawats.com/blog/keychron-k11-max/)
 - [2024年の振り返り](https://okuzawats.com/blog/looking-back-2024/)
 - [「Go言語でつくるインタプリタ」を読みました📚](https://okuzawats.com/blog/writing-an-interpreter-in-go/)
-- [[Kotlin] Non-Nullにこだわらず、適切にNullableを使う](https://okuzawats.com/blog/nullable-or-non-null/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料🎙️
