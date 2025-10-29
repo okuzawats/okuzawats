@@ -30,6 +30,7 @@
 ## ブログ📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotifyモデルにおけるギルド](https://okuzawats.com/blog/guild/)
 - [ツールとしてのカンバン、思想としてのカンバン](https://okuzawats.com/blog/kanban/)
 - [Dartのオプショナルタイピング（任意の型付け）](https://okuzawats.com/blog/dart-optional-typing/)
 - [マインスイーパーで不確実性との付き合い方を考える💣](https://okuzawats.com/blog/minesweeper/)
@@ -39,7 +40,6 @@
 - [テスト駆動開発（TDD）と五輪書](https://okuzawats.com/blog/the-book-of-five-rings/)
 - [アーキテクトは庭師のようにふるまう](https://okuzawats.com/blog/architect-and-gardener/)
 - [Keychron K11 Max QMK/VIA ワイヤレスカスタムメカニカルキーボード（日本語配列）を買いました⌨️](https://okuzawats.com/blog/keychron-k11-max/)
-- [2024年の振り返り](https://okuzawats.com/blog/looking-back-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料🎙️
