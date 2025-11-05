@@ -30,6 +30,7 @@
 ## ブログ📝
 
 <!-- BLOG-POST-LIST:START -->
+- [ピザ2枚ルールを超えて〜ピザ2.3枚ルールの提案🍕](https://okuzawats.com/blog/two-pizza-rule/)
 - [Spotifyモデルにおけるギルド](https://okuzawats.com/blog/guild/)
 - [ツールとしてのカンバン、思想としてのカンバン](https://okuzawats.com/blog/kanban/)
 - [Dartのオプショナルタイピング（任意の型付け）](https://okuzawats.com/blog/dart-optional-typing/)
@@ -39,7 +40,6 @@
 - [虫の目・鳥の目・魚の目👀](https://okuzawats.com/blog/eyes/)
 - [テスト駆動開発（TDD）と五輪書](https://okuzawats.com/blog/the-book-of-five-rings/)
 - [アーキテクトは庭師のようにふるまう](https://okuzawats.com/blog/architect-and-gardener/)
-- [Keychron K11 Max QMK/VIA ワイヤレスカスタムメカニカルキーボード（日本語配列）を買いました⌨️](https://okuzawats.com/blog/keychron-k11-max/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料🎙️
