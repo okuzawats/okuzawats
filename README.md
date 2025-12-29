@@ -30,6 +30,7 @@
 ## ブログ📝
 
 <!-- BLOG-POST-LIST:START -->
+- [2025年のふりかえり](https://okuzawats.com/blog/looking-back-2025/)
 - [『「わかってもらう」ということ』とソフトウェア開発](https://okuzawats.com/blog/communication/)
 - [ピザ2枚ルールを超えて〜ピザ2.3枚ルールの提案🍕](https://okuzawats.com/blog/two-pizza-rule/)
 - [Spotifyモデルにおけるギルド](https://okuzawats.com/blog/guild/)
@@ -39,7 +40,6 @@
 - [DartでFizzBuzz](https://okuzawats.com/blog/dart-fizzbuzz/)
 - [DartでHello World](https://okuzawats.com/blog/dart-hello-world/)
 - [虫の目・鳥の目・魚の目👀](https://okuzawats.com/blog/eyes/)
-- [テスト駆動開発（TDD）と五輪書](https://okuzawats.com/blog/the-book-of-five-rings/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料🎙️
