@@ -30,6 +30,7 @@
 ## ブログ📝
 
 <!-- BLOG-POST-LIST:START -->
+- [蔵書印を作りました](https://okuzawats.com/blog/library-stamp/)
 - [2025年のふりかえり](https://okuzawats.com/blog/looking-back-2025/)
 - [『「わかってもらう」ということ』とソフトウェア開発](https://okuzawats.com/blog/communication/)
 - [ピザ2枚ルールを超えて〜ピザ2.3枚ルールの提案🍕](https://okuzawats.com/blog/two-pizza-rule/)
@@ -39,7 +40,6 @@
 - [マインスイーパーで不確実性との付き合い方を考える💣](https://okuzawats.com/blog/minesweeper/)
 - [DartでFizzBuzz](https://okuzawats.com/blog/dart-fizzbuzz/)
 - [DartでHello World](https://okuzawats.com/blog/dart-hello-world/)
-- [虫の目・鳥の目・魚の目👀](https://okuzawats.com/blog/eyes/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料🎙️
