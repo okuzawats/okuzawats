@@ -30,6 +30,7 @@
 ## ブログ📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Elixirへの誘い](https://okuzawats.com/blog/elixir/)
 - [開発速度の暴力](https://okuzawats.com/blog/speed/)
 - [蔵書印を作りました](https://okuzawats.com/blog/library-stamp/)
 - [2025年のふりかえり](https://okuzawats.com/blog/looking-back-2025/)
@@ -39,7 +40,6 @@
 - [ツールとしてのカンバン、思想としてのカンバン](https://okuzawats.com/blog/kanban/)
 - [Dartのオプショナルタイピング（任意の型付け）](https://okuzawats.com/blog/dart-optional-typing/)
 - [マインスイーパーで不確実性との付き合い方を考える💣](https://okuzawats.com/blog/minesweeper/)
-- [DartでFizzBuzz](https://okuzawats.com/blog/dart-fizzbuzz/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料🎙️
