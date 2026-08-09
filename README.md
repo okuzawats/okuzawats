@@ -30,6 +30,7 @@
 ## ブログ📝
 
 <!-- BLOG-POST-LIST:START -->
+- [「表層UIデザインの解剖学 ユーザーの知覚に訴える「見た目」の作り方」を読みました📚](https://okuzawats.com/blog/user-interface/)
 - [Elixirへの誘い](https://okuzawats.com/blog/elixir/)
 - [開発速度の暴力](https://okuzawats.com/blog/speed/)
 - [蔵書印を作りました](https://okuzawats.com/blog/library-stamp/)
@@ -39,7 +40,6 @@
 - [Spotifyモデルにおけるギルド](https://okuzawats.com/blog/guild/)
 - [ツールとしてのカンバン、思想としてのカンバン](https://okuzawats.com/blog/kanban/)
 - [Dartのオプショナルタイピング（任意の型付け）](https://okuzawats.com/blog/dart-optional-typing/)
-- [マインスイーパーで不確実性との付き合い方を考える💣](https://okuzawats.com/blog/minesweeper/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料🎙️
