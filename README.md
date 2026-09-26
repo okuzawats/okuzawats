@@ -30,6 +30,7 @@
 ## ブログ📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Fizz Buzz](https://okuzawats.com/blog/fizzbuzz/)
 - [「表層UIデザインの解剖学 ユーザーの知覚に訴える「見た目」の作り方」を読みました📚](https://okuzawats.com/blog/user-interface/)
 - [Elixirへの誘い](https://okuzawats.com/blog/elixir/)
 - [開発速度の暴力](https://okuzawats.com/blog/speed/)
@@ -39,7 +40,6 @@
 - [ピザ2枚ルールを超えて〜ピザ2.3枚ルールの提案🍕](https://okuzawats.com/blog/two-pizza-rule/)
 - [Spotifyモデルにおけるギルド](https://okuzawats.com/blog/guild/)
 - [ツールとしてのカンバン、思想としてのカンバン](https://okuzawats.com/blog/kanban/)
-- [Dartのオプショナルタイピング（任意の型付け）](https://okuzawats.com/blog/dart-optional-typing/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 登壇資料🎙️
